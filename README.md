@@ -19,7 +19,7 @@ A simple yet powerful Python app to download YouTube videos directly to your mac
 ## 📥 Installation
 
 ```bash
-git clone https://github.com/yourusername/youtube-downloader.git
+git clone https://github.com/Ntwali14/YouTube_Downloader.git
 cd youtube-downloader
 python -m venv venv
 source venv/bin/activate  # or venv\Scripts\activate for Windows
